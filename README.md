@@ -1,3 +1,5 @@
+# Nota Importante: Al final de la compilación del .exe este solo puede ser ejecutado en SO (Win 8+)
+
 # Alretix_RAT (Remote Shell DS)
 
 
