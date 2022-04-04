@@ -43,6 +43,8 @@ python3 start.py
 
 <br><br>
 **Seguido esto deberás seguír los pasos que el archivo te pide.**<br>
+# Comandos:<br>
+![imagen](https://cdn.discordapp.com/attachments/959131996175622247/960419859483725865/unknown.png)<br>
 
 # Imagenes de ayuda<br>
 
