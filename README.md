@@ -61,3 +61,5 @@ python3 start.py
 ![image](https://cdn.discordapp.com/attachments/939780742454587442/960413756683333682/unknown.png)<br>
 **El siguiente resultado de la carpeta `"dist"` debes ingeniartelas para que la victima lo ejecute:**<br>
 ![image](https://cdn.discordapp.com/attachments/939780742454587442/960414135391240222/unknown.png)<br>
+# Info:<br>
+Este código libre es hecho por mi, si vas a compartirlo por favor deja creditos.
