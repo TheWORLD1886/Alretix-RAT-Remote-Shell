@@ -48,7 +48,6 @@ python3 start.py
 
 # Imagenes de ayuda<br>
 
-![imagen](https://cdn.discordapp.com/attachments/939780742454587442/960412795764105266/unknown.png)<br>
 
 ![imagen](https://cdn.discordapp.com/attachments/939780742454587442/960413147301306398/unknown.png)<br>
 
